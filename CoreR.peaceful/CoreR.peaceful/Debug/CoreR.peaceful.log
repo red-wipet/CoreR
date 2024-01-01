@@ -1,0 +1,21 @@
+﻿  CoreR.peaceful.cpp
+C:\Users\mrsuperbuddy\source\repos\CoreR.peaceful\CoreR.peaceful\CoreR.peaceful.cpp(174,7): warning C4552: "<": результат выражения не используется
+C:\Users\mrsuperbuddy\source\repos\CoreR.peaceful\CoreR.peaceful\CoreR.peaceful.cpp(184,10): warning C4552: "<": результат выражения не используется
+C:\Users\mrsuperbuddy\source\repos\CoreR.peaceful\CoreR.peaceful\CoreR.peaceful.cpp(189,10): warning C4552: "<": результат выражения не используется
+C:\Users\mrsuperbuddy\source\repos\CoreR.peaceful\CoreR.peaceful\CoreR.peaceful.cpp(286,14): warning C4244: инициализация: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\CoreR.peaceful\CoreR.peaceful\CoreR.peaceful.cpp(378,14): warning C4244: инициализация: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\CoreR.peaceful\CoreR.peaceful\CoreR.peaceful.cpp(410,12): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\CoreR.peaceful\CoreR.peaceful\CoreR.peaceful.cpp(411,16): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\CoreR.peaceful\CoreR.peaceful\CoreR.peaceful.cpp(431,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\CoreR.peaceful\CoreR.peaceful\CoreR.peaceful.cpp(465,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\CoreR.peaceful\CoreR.peaceful\CoreR.peaceful.cpp(467,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\CoreR.peaceful\CoreR.peaceful\CoreR.peaceful.cpp(503,14): warning C4244: инициализация: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\CoreR.peaceful\CoreR.peaceful\CoreR.peaceful.cpp(554,24): warning C4129: Y: неизвестная escape-последовательность
+C:\Users\mrsuperbuddy\source\repos\CoreR.peaceful\CoreR.peaceful\CoreR.peaceful.cpp(554,24): warning C4129: I: неизвестная escape-последовательность
+C:\Users\mrsuperbuddy\source\repos\CoreR.peaceful\CoreR.peaceful\CoreR.peaceful.cpp(554,24): warning C4129: C: неизвестная escape-последовательность
+C:\Users\mrsuperbuddy\source\repos\CoreR.peaceful\CoreR.peaceful\CoreR.peaceful.cpp(554,24): warning C4129: P: неизвестная escape-последовательность
+C:\Users\mrsuperbuddy\source\repos\CoreR.peaceful\CoreR.peaceful\CoreR.peaceful.cpp(560,25): warning C4129: Y: неизвестная escape-последовательность
+C:\Users\mrsuperbuddy\source\repos\CoreR.peaceful\CoreR.peaceful\CoreR.peaceful.cpp(560,25): warning C4129: I: неизвестная escape-последовательность
+C:\Users\mrsuperbuddy\source\repos\CoreR.peaceful\CoreR.peaceful\CoreR.peaceful.cpp(560,25): warning C4129: C: неизвестная escape-последовательность
+C:\Users\mrsuperbuddy\source\repos\CoreR.peaceful\CoreR.peaceful\CoreR.peaceful.cpp(198): warning C4715: Hue: значение возвращается не при всех путях выполнения
+  CoreR.peaceful.vcxproj -> C:\Users\mrsuperbuddy\source\repos\CoreR.peaceful\Debug\CoreR.peaceful.exe

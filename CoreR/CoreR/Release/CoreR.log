@@ -1,0 +1,25 @@
+﻿  CoreR.cpp
+C:\Users\mrsuperbuddy\source\repos\CoreR\CoreR\CoreR.cpp(174,7): warning C4552: "<": результат выражения не используется
+C:\Users\mrsuperbuddy\source\repos\CoreR\CoreR\CoreR.cpp(184,10): warning C4552: "<": результат выражения не используется
+C:\Users\mrsuperbuddy\source\repos\CoreR\CoreR\CoreR.cpp(189,10): warning C4552: "<": результат выражения не используется
+C:\Users\mrsuperbuddy\source\repos\CoreR\CoreR\CoreR.cpp(2350,14): warning C4244: инициализация: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\CoreR\CoreR\CoreR.cpp(2442,14): warning C4244: инициализация: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\CoreR\CoreR\CoreR.cpp(2474,12): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\CoreR\CoreR\CoreR.cpp(2475,16): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\CoreR\CoreR\CoreR.cpp(2495,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\CoreR\CoreR\CoreR.cpp(2529,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\CoreR\CoreR\CoreR.cpp(2531,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\CoreR\CoreR\CoreR.cpp(2567,14): warning C4244: инициализация: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\CoreR\CoreR\CoreR.cpp(2618,24): warning C4129: Y: неизвестная escape-последовательность
+C:\Users\mrsuperbuddy\source\repos\CoreR\CoreR\CoreR.cpp(2618,24): warning C4129: I: неизвестная escape-последовательность
+C:\Users\mrsuperbuddy\source\repos\CoreR\CoreR\CoreR.cpp(2618,24): warning C4129: C: неизвестная escape-последовательность
+C:\Users\mrsuperbuddy\source\repos\CoreR\CoreR\CoreR.cpp(2618,24): warning C4129: P: неизвестная escape-последовательность
+C:\Users\mrsuperbuddy\source\repos\CoreR\CoreR\CoreR.cpp(2624,25): warning C4129: Y: неизвестная escape-последовательность
+C:\Users\mrsuperbuddy\source\repos\CoreR\CoreR\CoreR.cpp(2624,25): warning C4129: I: неизвестная escape-последовательность
+C:\Users\mrsuperbuddy\source\repos\CoreR\CoreR\CoreR.cpp(2624,25): warning C4129: C: неизвестная escape-последовательность
+  Создание кода
+  1 of 20 functions ( 5.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  CoreR.vcxproj -> C:\Users\mrsuperbuddy\source\repos\CoreR\Release\CoreR.exe
